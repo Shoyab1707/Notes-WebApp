@@ -19,7 +19,8 @@ Welcome to the Notes Web Application! This simple web app allows you to manage y
 1. Clone the repository: `git clone https://github.com/Shoyab1707/Notes.gitt`
 2. Open `index.html` in your preferred web browser.
 3. Start managing your notes!
-
+   Or visit : `https://shoyab1707.github.io/Notes/`
+   
 ## Usage
 
 1. Click the "Add Note" button to create a new note.
