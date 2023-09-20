@@ -20,7 +20,7 @@ Welcome to the Notes Web Application! This simple web app allows you to manage y
 2. Open `index.html` in your preferred web browser.
 3. Start managing your notes!
    Or visit : [click here ](https://shoyab1707.github.io/Notes/)
-   Or Visit : [click here] (https://chipper-valkyrie-d0db7b.netlify.app/)
+   Or Visit :  (https://chipper-valkyrie-d0db7b.netlify.app/)
    
 ## Usage
 
