@@ -19,8 +19,8 @@ Welcome to the Notes Web Application! This simple web app allows you to manage y
 1. Clone the repository: `git clone https://github.com/Shoyab1707/Notes.gitt`
 2. Open `index.html` in your preferred web browser.
 3. Start managing your notes!
-   Or visit : `https://shoyab1707.github.io/Notes/`
-   Or Visit : `https://chipper-valkyrie-d0db7b.netlify.app/`
+   Or visit : [click here ](https://shoyab1707.github.io/Notes/)
+   Or Visit : [click here ] (https://chipper-valkyrie-d0db7b.netlify.app/)
    
 ## Usage
 
